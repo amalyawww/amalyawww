@@ -31,14 +31,20 @@ Welcome to my GitHub profile! I’m a passionate developer with a diverse skill 
 | Pull Requests              | ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-10-orange) |
 
 ### Top Languages
+| **Most Used Languages**    | **Proficiency**  |
+|----------------------------|------------------|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  | Intermediate |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Intermediate |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Intermediate |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Intermediate |
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
 Check out some of my projects:
-- 🌟 [Project 1](https://link-to-project1.com) - Brief description of Project 1.
-- 🌟 [Project 2](https://link-to-project2.com) - Brief description of Project 2.
-- 🌟 [Project 3](https://link-to-project3.com) - Brief description of Project 3.
+- 🌟 Recheck my repos!
 
 ## 📫 Get in Touch
 - ✉️ Email: [sariamalianurwahyu@gmail.com](mailto:sariamalianurwahyu@gmail.com)
