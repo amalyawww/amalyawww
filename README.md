@@ -26,10 +26,10 @@ Welcome to my GitHub profile! I’m a passionate developer with a diverse skill 
 ### Activity Overview
 | 🎯 **Metric**            | 📈 **Value**          |
 |-------------------------|----------------------|
-| Repositories            | ![Repos](https://img.shields.io/badge/Repos-50-brightgreen) |
-| Total Stars             | ![Stars](https://img.shields.io/badge/Stars-150-yellow) |
-| Forks                   | ![Forks](https://img.shields.io/badge/Forks-20-blue) |
-| Issues Open             | ![Open Issues](https://img.shields.io/badge/Open%20Issues-5-red) |
+| Repositories            | ![Repos](https://img.shields.io/badge/Repos-16-brightgreen) |
+| Total Stars             | ![Stars](https://img.shields.io/badge/Stars-1-yellow) |
+| Forks                   | ![Forks](https://img.shields.io/badge/Forks-?-blue) |
+| Issues Open             | ![Open Issues](https://img.shields.io/badge/Open%20Issues-?-red) |
 | Pull Requests           | ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-10-orange) |
 
 ### Top Languages
