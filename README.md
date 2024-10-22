@@ -25,8 +25,10 @@ Check out some of my projects:
 - 🌟 You can find it on my Repo!
 
 ## 📫 Get in Touch
-- ✉️ Email: sariamalianurwahyu@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sari-amalia/
+- ✉️ Email: [sariamalianurwahyu@gmail.com](mailto:sariamalianurwahyu@gmail.com)
+- 💼 LinkedIn: [Sari Amalia](https://www.linkedin.com/in/sari-amalia/)
+- 🤝 Partner(my lovely): [Viandwi24's GitHub](https://github.com/viandwi24)
+
 
 ---
 
