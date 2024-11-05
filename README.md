@@ -1,6 +1,6 @@
-# 👋 Hi Code Enthusiasts, I'm Amalia!
+# 👋 Hi, I'm Amalia!
 
-Welcome to my GitHub profile! I’m a passionate developer with a diverse skill set. Here’s a quick overview of what I can do:
+ a passionate developer with a diverse skill set. Here’s a quick overview of what I can do:
 
 ## 🛠️ Technologies & Tools
 
@@ -23,14 +23,7 @@ Welcome to my GitHub profile! I’m a passionate developer with a diverse skill 
 
 ## 📊 GitHub Statistics
 
-### Activity Overview
-| 🎯 **Metric**            | 📈 **Value**          |
-|-------------------------|----------------------|
-| Repositories            | ![Repos](https://img.shields.io/badge/Repos-21-brightgreen) |
-| Total Stars             | ![Stars](https://img.shields.io/badge/Stars-1-yellow) |
-| Forks                   | ![Forks](https://img.shields.io/badge/Forks-2-blue) |
-| Issues Open             | ![Open Issues](https://img.shields.io/badge/Open%20Issues-0-red) |
-| Pull Requests           | ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-10-orange) |
+
 
 ### Top Languages
 | 🌍 **Most Used Languages** |
