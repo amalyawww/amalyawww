@@ -15,7 +15,7 @@ A passionate developer with a diverse skill set. Here’s a quick overview of wh
 
 ---
 
-## 📊 GitHub Statistics
+### Activity
 ![Amalia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalyawww&show_icons=true&hide_title=true&count_private=true&theme=white&bg_color=ffffff&text_color=99999)
 
 ### Top Languages
