@@ -30,7 +30,7 @@ A passionate developer with a diverse skill set. Here’s a quick overview of wh
 ## 🚀 Projects
 
 Check out some of my projects:
-- 🌟 [Recheck my repo!](https://github.com/amalyawww)
+- 🌟 [Recheck my repo!](https://github.com/amalyawww?tab=repositories)
 
 ---
 
