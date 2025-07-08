@@ -34,7 +34,3 @@ Check out some of my projects:
 
 ---
 
-## 📫 Get in Touch
-- ✉️ Email: [sariamalianurwahyu@gmail.com](mailto:sariamalianurwahyu@gmail.com)
-- 💼 LinkedIn: [Sari Amalia](https://www.linkedin.com/in/sari-amalia/)
-- 💗 My Lovely 💗: [Alfian Dwi Nugraha<3](https://github.com/viandwi24)
